@@ -1,3 +1,3 @@
 # improved-zabbix
 
-#! Autore: Giordano Cetti @ Versione 1.0.0
+# Autore: Giordano Cetti @ Versione 1.0.0
