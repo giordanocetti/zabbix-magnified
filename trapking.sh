@@ -1,6 +1,7 @@
 #!/bin/bash
 #! Autore: Giordano Cetti @ Versione 1.0.0
 #! IL MIO PRIMO BASH SCRIPT <3 <3 <3 { PUBBLICO :D }
+#! This software has been released under the GNU GPL (https://www.gnu.org/licenses/gpl-3.0.html)
 #! Lavoro svolto durante il periodo di Stage in ADS Assembly Data Systems spa
 
 
